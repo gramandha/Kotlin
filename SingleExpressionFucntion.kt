@@ -7,6 +7,9 @@ setelah deklarasi nama function dan tipe data pengembalian function
 
  fun kaliDua(a: Int): Int = a*2
 
+ fun panggil(nama: String): Unit = println("Saya $nama")
+
  fun main(){
      println(kaliDua(2))
+     println(panggil("Gramandha"))
  }
