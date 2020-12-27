@@ -19,6 +19,6 @@ fun main() {
     val ukuranDataku = dataku.size - 1
     for( c in 0..ukuranDataku){
         println(dataku[c])
-        println(dataku.get(c))
+        println("index: $c Isi Data : ${dataku.get(c)}")
     }
 }
