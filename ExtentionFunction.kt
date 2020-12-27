@@ -17,6 +17,7 @@ fun String.coba(): String{
 fun String.coba2(){
     println("Saya $this")
 }
+
 fun main(){
     val name = "Wega"
 
