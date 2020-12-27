@@ -43,7 +43,7 @@ fun coba(nilai1: String, vararg nilai2: Int ): Int{
     for (i in nilai2) {
         t += i
     }
-
+    println(nilai1)
     return t
 }
 
