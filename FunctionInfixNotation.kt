@@ -22,4 +22,8 @@ fun main(){
 
     val tampilkan = "Gramandha Wega" to "UP"
     println(tampilkan)
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> e34e4955ad3e0b0542914909b4a62ca843829ac7
